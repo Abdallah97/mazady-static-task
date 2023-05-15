@@ -1,1 +1,2 @@
-# Mazady-page
+# Mazady-static Design
+
