@@ -7,12 +7,12 @@
       <button class="bg-gradient-to-l from-pink-600 to-pink-900 rounded-md rounded-r-none px-6 focus:outline-none" >
         <span class="material-icons text-3xl text-white">search</span>
       </button>
-      <input type="text" name="" id="" class="bg-pink-300 w-2/3 sm:w-3/4 px-3 focus:outline-none" />
+      <input type="text" name="" id="" class="bg-pink-200 w-2/3 sm:w-3/4 px-3 focus:outline-none" />
       
-      <div class="dropdown relative bg-pink-300 rounded-md rounded-l-none text-white text-sm mx-1 flex justify-center items-center w-1/3 sm:w-1/4 h-14 sm:h-auto">
+      <div class="dropdown  bg-pink-200 rounded-md rounded-l-none text-white text-sm mx-1 flex justify-center items-center w-1/3 sm:w-1/4 h-14 sm:h-auto">
             
         <button
-              class=" text-gray-700 font-semibold py-2 px-4 rounded inline-flex items-center focus:outline-none h-full sm:h-auto"
+              class=" text-gray-700 bg-pink-200 font-semibold py-2 px-4 rounded inline-flex items-center focus:outline-none h-full sm:h-auto"
             >
             <svg
               class="fill-current h-4 w-4"
